@@ -6,6 +6,8 @@ Manually uploading and deploying code to update applications is a thing of the p
 
 Prepared by [Brock Tubre](https://brocktubre.com) 2018
 
+Updated by Ron Guthrie 2020
+
 Lab files for A Cloud Guru, Maker Lab - Let the Free Times Roll
 
 ## Development server
